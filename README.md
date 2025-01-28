@@ -2,6 +2,9 @@
 
 This is a Python-based chatbot project that uses OpenAI's GPT-4 model to simulate a helpful assistant in a clothes store. The assistant encourages customers to try items that are on sale.
 
+## Preview
+[screen-capture.webm](https://github.com/user-attachments/assets/8d7b467b-82a8-4b29-b18c-2a093c5eb231)
+
 ## Installation
 
 1. Clone the repository:
